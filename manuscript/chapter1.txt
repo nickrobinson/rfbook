@@ -1,6 +1,6 @@
 # Chapter 1
-## Getting Started with RIDE
-There are many IDEs and code editors that offer plugin support for Robot Framework Suite creation. 
-The most popular choice at the moment however is RIDE (Robot Framework IDE). 
-This provides a lightweight editor and execution tools for creating new test suites in Robot Framework.
+## A Horrible realization
+
+There are many IDEs and code editors that offer plugin support for Robot Framework Suite creation. The most popular choice at the moment however is RIDE (Robot Framework IDE). This provides a lightweight editor and execution tools for creating new test suites in Robot Framework.
+
 ![RIDE Default View](images/RideDefaultView.png)
